@@ -11,9 +11,4 @@ p {
     display: flex;
     justify-content: center;
     align-items: center;
-  }
-  
-  .p {
-    border: 5px red solid;
-    position: relative;
-  }
+  } 
