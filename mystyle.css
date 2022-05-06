@@ -1,0 +1,19 @@
+
+p {
+    border: 5px cyan solid;
+    position: relative;
+    margin-bottom: auto;
+}
+
+.container {
+    font-family: arial;
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .p {
+    border: 5px red solid;
+    position: relative;
+  }
